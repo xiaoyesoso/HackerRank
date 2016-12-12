@@ -1,4 +1,4 @@
-package Day2
+package Day2.Operators
 
 object Solution {
   def main(args:Array[String]){

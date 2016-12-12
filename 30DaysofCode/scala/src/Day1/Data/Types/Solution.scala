@@ -1,4 +1,4 @@
-package Day1
+package Day1.Data.Types
 
 object Solution {
     def main(args: Array[String]) {
