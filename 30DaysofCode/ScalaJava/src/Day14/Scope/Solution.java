@@ -2,7 +2,6 @@ package Day14.Scope;
 
 import java.util.Scanner;
 
-import scala.collection.generic.BitOperations.Int;
 
 class Difference {
 	private int[] elements;
