@@ -1,0 +1,1 @@
+print(len(set([raw_input() for x in range(input())])))
